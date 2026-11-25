@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26133709672",
+    "project_id": "hangoutbff-4a53c",
+    "storage_bucket": "hangoutbff-4a53c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26133709672:android:888b919c9beca582a0ccdd",
+        "android_client_info": {
+          "package_name": "com.m0hamed_uxxv.hangoutbff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfQzecItZGega3PSN51jSzk2txvtMXCr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

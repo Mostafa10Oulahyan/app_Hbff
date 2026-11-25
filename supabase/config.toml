@@ -1,0 +1,5 @@
+[functions.send-push-notification]
+verify_jwt = false
+
+[functions.cloudinary-sign]
+verify_jwt = false
